@@ -1,0 +1,4 @@
+{
+    "testRepo": "single-component-debug-testcases",
+    "pathToFile": "__tests__/App.test.js"
+}
