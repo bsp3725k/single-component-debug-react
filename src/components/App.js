@@ -14,6 +14,7 @@ const App = () => {
       <li>React Functional Components</li>
       <li>JSX Syntax</li>
       <li>DOM Manipulation using ReactDOM</li>
+      <li>Done!</li>
     </ul>
   </div>
   );
