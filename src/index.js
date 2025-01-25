@@ -1,3 +1,4 @@
+import "regenerator-runtime/runtime"; // Add this at the top
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
